@@ -1,4 +1,4 @@
-# Data analysis for jable.tv
+# Most hot jable videos!
 
 https://brave-man.github.io/jable-popular/all.html
 
